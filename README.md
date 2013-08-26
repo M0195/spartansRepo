@@ -1,7 +1,7 @@
-spartansRepo V5
+spartansRepo V66
 ============
 
-v5 This application contains Twilio's library for Salesforce integration
+v66 This application contains Twilio's library for Salesforce integration
 
 This includes classes, pages and triggers that are customized specifically for mm Inc.
 Below are the details of code components present in this repository. 
@@ -15,4 +15,4 @@ Twilio src
 	package.xml -- [This contains details on which code components have been checked-in]
 -------------------------------------------
 
-updates after optimising the code v5 the latest one....
+updates after optimising the code v66 the latest one....
