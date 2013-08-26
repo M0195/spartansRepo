@@ -3,5 +3,16 @@ spartansRepo
 
 This application contains Twilio's library for Salesforce integration
 
-Initial commit to VWgithub\spartansRepo...by VW
+This includes classes, pages and triggers that are customized specifically for mm Inc.
+Below are the details of code components present in this repository. 
+
+Directory Structure -
+
+Twilio src
+	classes
+	Trigger
+	pages
+	package.xml -- [This contains details on which code components have been checked-in]
+
+
 
